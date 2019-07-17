@@ -17,7 +17,7 @@ Over that is really important to have:
 - A good compensation for the SKEW (if you have a problem or don't know how to do, please see this [video](https://www.youtube.com/watch?v=YfAb5IaHDSo))
 - A good flow settings (if you don't know how to do, try this test from [Thingiverse](https://www.thingiverse.com/thing:342198))
 
-### Step
+### Steps
 It's pretty strait forward:
 - Download
 - Slice with the setting above (remember to rotate the Top.stl)
