@@ -12,13 +12,14 @@ To achive this project you need basicaly 3 things:
 * A Pc with arduino IDE on it and a ISP for flashing
 On top of those  you need a lot of patiente but at the end of the story you will have a tiny little device that you can program fro your pc and is big as a 2€ coins.
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them.
 
 ### Photos
 <p align="center">
-<img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-54-04.jpg" width="250"><img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-53-42.jpg" width="250"><img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-13-17.jpg" width="250">
-<img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_11-55-42.jpg" width="250"><img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_13-05-42.jpg" width="250"><img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_11-55-56.jpg" width="250">
+<img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-54-04.jpg" width="250"> <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-53-42.jpg" width="250"> <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-13-17.jpg" width="250">
+<img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_11-55-42.jpg" width="250"> <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_13-05-42.jpg" width="250"> <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_11-55-56.jpg" width="250">
 </p>
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
