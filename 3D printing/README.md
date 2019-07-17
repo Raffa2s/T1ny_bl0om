@@ -24,7 +24,7 @@ It's pretty strait forward:
 - Print
 - Test fit
 
-In case you have any problems fell fre to contact me on [Twitter](https://twitter.com/raffass).
+In case you have any problems feel free to contact me on [Twitter](https://twitter.com/raffass).
 
 
 

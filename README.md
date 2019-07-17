@@ -26,8 +26,7 @@ In each folder you can find, moreover the mandatory file, a README in which are 
 
 ## Author
 
-**Luca Raffaelli**
-[Twitter](https://twitter.com/raffass)
+**Luca Raffaelli** - [Twitter](https://twitter.com/raffass)
 
 If you remix this project or use it let me now :blush: I'm really curious :grin:
 
