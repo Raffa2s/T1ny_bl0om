@@ -26,7 +26,7 @@ What things you need to install the software and how to install them.
 
 **Luca Raffaelli**
 [Twitter](https://twitter.com/raffass)
-If you remix this project or use it let me now :blush: I really curious :grin:
+If you remix this project or use it let me now :blush: I'm really curious :grin:
 
 
 ## License
