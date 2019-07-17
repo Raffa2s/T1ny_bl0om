@@ -9,12 +9,14 @@
 Remember to flash the arduino as ISP **BEFORE** solder it to the board, if you need an ISP to program the Attiny85.
 
 ### Steps
+#### Set-ip
 First of all, if you have completed the soldering part, is important to:
 - Had installed the Arduino IDE
 - Install the adafruit library for the ws2812 in your Arduino IDE called *Adafruit_NeoPixel*
 - Add the support for the Attiny85 in Arduino IDE, if you had problem follow the first 2 steps of this [guide](https://www.instructables.com/id/How-to-Program-an-Attiny85-From-an-Arduino-Uno/)
 
 After the set-up of the Arduini IDE it's time to flash the Attiny85; to do so, is important to set the arduino to flash firstly the bootloader to the Attiny85 and after that we test it.
+#### Burn teh Bootloader
 
 <img align="left" width="511" height="378" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/screen.PNG">
 
@@ -27,13 +29,7 @@ So it's important to set the arduino like the photo:
 
 After that, it's time to flash the bootloader pressing the button *Burn the bootloader*.
 
-
-
-
-
-
-
-
+#### Test Code
 
 If everything it's fine you can try to upload the code 'attiny_blink/attiny_blink.ino' that make the led in the flash board to blink periodically; after that you can upload the code 'Neopixel_Rainbow/Neopixel_Rainbow.ino'.
 
