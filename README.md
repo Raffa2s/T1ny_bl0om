@@ -24,16 +24,14 @@ What things you need to install the software and how to install them.
 
 ## Author
 
-* **Luca Raffaelli**
+**Luca Raffaelli**
 [Twitter](https://twitter.com/raffass)
+If you remix this project or use it let me now :blush: I really curious :grin:
 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+<img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/yop.gif" width="100">
