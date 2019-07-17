@@ -20,7 +20,6 @@ After the set-up of the Arduini IDE it's time to flash the Attiny85; to do so, i
 #### Burn teh Bootloader
 
 So it's important to set the arduino like the photo:
-
 <img align="left" width="511" height="378" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/screen.PNG">
 - Board: ATtiny25/45/45
 - Processor: ATtiny85
