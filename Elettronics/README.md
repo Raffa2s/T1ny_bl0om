@@ -18,8 +18,12 @@ The following instractions is divide in two part:
 
 If you have a flasher you can skip the ISP part and go straight to the T1ny_bl0om part.
 
-### Steps
-#### Set-up
+### ISP
+#### Build of Materials
+
+
+
+
 First of all, if you have completed the soldering part, is important to:
 - Had installed the Arduino IDE
 - Install the adafruit library for the ws2812 in your Arduino IDE called *Adafruit_NeoPixel*
