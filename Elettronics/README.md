@@ -3,8 +3,7 @@
 ## Getting Started
 
 ### Requisites
-
-<https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-12-55.jpg">Before start, this is the part for me more hard to achieve because I never soldered SMD component before this project; so, if you are like me, take your time.
+<img align="right" width="200" height="200" https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-12-55.jpg">Before start, this is the part for me more hard to achieve because I never soldered SMD component before this project; so, if you are like me, take your time.
 
 It's important to have the right hardware for the job, so this is mine:
 - Soldering iron, mine is a Weller WHS 40
