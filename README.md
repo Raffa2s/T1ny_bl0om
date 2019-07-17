@@ -1,4 +1,4 @@
-# T1ny_bl0om
+# T1ny_bl0om (README IN PROGRESS)
 
 This project was born as a my own exercise of soldering but it's grown in a more complex tiny project.
 ## Getting Started
