@@ -18,7 +18,7 @@ Over that is really important to have:
 - A good flow settings (if you don't know how to do, try this test from [Thingiverse](https://www.thingiverse.com/thing:342198))
 
 ### Steps
-It's pretty strait forward:
+It's pretty straight forward:
 - Download
 - Slice with the setting above (remember to rotate the Top.stl)
 - Print

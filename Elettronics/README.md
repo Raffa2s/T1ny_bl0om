@@ -7,12 +7,16 @@
 
 It's important to have the right hardware for the job, so this is mine:
 - Soldering iron, mine is a Weller WHS 40
-- Soldering station, mine is [this one](https://www.aliexpress.com/item/32817153181.html?spm=a2g0s.9042311.0.0.27424c4d8S5X5Y) Set E, that is complete of a soldering iron and solder past
+- Soldering station, mine is [this one](https://www.aliexpress.com/item/32817153181.html?spm=a2g0s.9042311.0.0.27424c4d8S5X5Y) Set E, that had a soldering iron and solder past
 - Solder past, [mine](https://www.aliexpress.com/item/32623418957.html?spm=a2g0s.9042311.0.0.27424c4d8S5X5Y) but the one that came with the soldering station works fine
 - Flux paste, [mine](https://www.aliexpress.com/item/32331668231.html?spm=a2g0s.9042311.0.0.27424c4dDTmYnn) and works fine
 - Soldering fume extractor, [this](https://www.youtube.com/watch?v=gNbNKMQhCOQ) is very articuleted but it's important to have a kind of a extractor to evacuate the soldering fume
 
+The following instractions is divide in two part:
+- ISP
+- T1ny_bl0om
 
+If you have a flasher you can skip the ISP part and go straight to the T1ny_bl0om part.
 
 ### Steps
 #### Set-up
