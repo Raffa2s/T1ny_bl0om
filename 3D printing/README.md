@@ -12,6 +12,7 @@
 For the settings, everything is good if allow you to achive a good finished print with the minimum efford; by the way is important to have setted:
 - Layer high: 0.1mm
 - Infill: 100%
+
 Over that is really important to have:
 - A good compensation for the SKEW (if you have a problem or don't know how to do, please see this [video](https://www.youtube.com/watch?v=YfAb5IaHDSo))
 - A good flow settings (if you don't know how to do, try this test from [Thingiverse](https://www.thingiverse.com/thing:342198))
