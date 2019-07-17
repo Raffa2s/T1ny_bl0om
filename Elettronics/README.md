@@ -1,12 +1,19 @@
-# T1ny_bl0om - Code
+# T1ny_bl0om - Elettronics
 
 ## Getting Started
 
 ### Requisites
 
-<img align="right" width="200" height="200" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_15-17-39.jpg">Before start, is better to have completed the soldering part of the project because now it's time for flashing and programming :heart_eyes: :sparkles:
+<https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-12-55.jpg">Before start, this is the part for me more hard to achieve because I never soldered SMD component before this project; so, if you are like me, take your time.
 
-Remember to flash the arduino as ISP **BEFORE** solder it to the board, if you need an ISP to program the Attiny85.
+It's important to have the right hardware for the job, so this is mine:
+- Soldering iron, mine is a Weller WHS 40
+- Soldering station, mine is [this one](https://www.aliexpress.com/item/32817153181.html?spm=a2g0s.9042311.0.0.27424c4d8S5X5Y) Set E, that is complete of a soldering iron and solder past
+- Solder past, [mine](https://www.aliexpress.com/item/32623418957.html?spm=a2g0s.9042311.0.0.27424c4d8S5X5Y) but the one that came with the soldering station works fine
+- Flux paste, [mine](https://www.aliexpress.com/item/32331668231.html?spm=a2g0s.9042311.0.0.27424c4dDTmYnn) and works fine
+- Soldering fume extractor, [this](https://www.youtube.com/watch?v=gNbNKMQhCOQ) is very articuleted but it's important to have a kind of a extractor to evacuate the soldering fume
+
+
 
 ### Steps
 #### Set-up
