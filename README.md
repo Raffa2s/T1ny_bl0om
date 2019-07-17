@@ -21,6 +21,8 @@ What things you need to install the software and how to install them.
 <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_11-55-42.jpg" width="250"> <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_13-05-42.jpg" width="250"> <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_11-55-56.jpg" width="250">
 </p>
 
+### General info
+In each folder you can find, moreover the mandatory file, a README in which are included the BOM list of the phisical object that you need and a little guide through the main step to complete the step.
 
 ## Author
 
@@ -34,4 +36,4 @@ If you remix this project or use it let me now :blush: I'm really curious :grin:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
-<img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/yop.gif" width="100">
+<img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/yop.gif" width="50">
