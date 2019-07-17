@@ -15,7 +15,7 @@ On top of those  you need a lot of patiente but at the end of the story you will
 What things you need to install the software and how to install them
 
 ### Photos
-![](https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_11-55-42.jpg) {:height="50%" width="50%"}
+![](https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_11-55-42.jpg){:height="50%" width="50%"}
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
