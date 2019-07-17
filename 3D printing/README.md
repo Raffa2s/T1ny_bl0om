@@ -23,7 +23,7 @@ It's pretty strait forward:
 - Slice with the setting above (remember to rotate the Top.stl)
 - Print
 - Test fit
-In case you have any problems fell fre to contact me on Twitter
+In case you have any problems fell fre to contact me on [Twitter](https://twitter.com/raffass).
 
 
 
