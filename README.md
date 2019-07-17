@@ -14,9 +14,7 @@ On top of those  you need a lot of patiente but at the end of the story you will
 
 What things you need to install the software and how to install them
 
-```
-Give examples
-```
+### Photos
 
 ### Installing
 
