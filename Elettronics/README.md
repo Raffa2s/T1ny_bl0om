@@ -3,7 +3,6 @@
 ## Getting Started
 
 ### Requisites
-<img align="right" width="200" height="200" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-12-55.jpg">
 It's important to have the right hardware for the job, so this is mine:
 - Soldering iron, mine is a Weller WHS 40
 - Soldering station, mine is [this one](https://www.aliexpress.com/item/32817153181.html?spm=a2g0s.9042311.0.0.27424c4d8S5X5Y) Set E, that had a soldering iron and solder past
@@ -20,7 +19,7 @@ If you have a flasher you can skip the ISP part and go straight to the T1ny_bl0o
 ### ISP
 
 #### Build of Materials
-<img align="right" width="200" height="200" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_10-05-11.jpg">In this part you need:
+<img align="right" width="250" height="250" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_10-05-11.jpg">In this part you need:
 - An arduino nano [link](https://www.aliexpress.com/item/32341832857.html?spm=a2g0s.9042311.0.0.27424c4diAN1ap)
 - A 10 μF capacitor, here you have a set of those [link](https://www.aliexpress.com/item/32866006892.html?spm=a2g0o.productlist.0.0.59a8181buVlWT5&algo_pvid=d772c5c8-fa64-40fe-81dd-571abab0b6f3&algo_expid=d772c5c8-fa64-40fe-81dd-571abab0b6f3-1&btsid=62429975-cd1c-4d59-b215-f225cd1a05c2&ws_ab_test=searchweb0_0%2Csearchweb201602_8%2Csearchweb201603_52)
 - A 5mm led or similar [link](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_f5Short-legs-Round-with-edge-Super-bright-red-hair-red-Bagged-RHOS_C52721.html)
@@ -42,15 +41,21 @@ Now it's time for the tiny.
 ### T1ny_bl0om
 
 #### Build of Materials
-<img align="right" width="200" height="200" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_10-40-03.jpg">I order some part from LCSC and other form Aliexpress feel free to place the order where do you want, down below there is the list of all the mandatory component to complete **one** T1ny_bl0om:
+<img align="right" width="250" height="250" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_10-40-03.jpg">I order some part from LCSC and other form Aliexpress feel free to place the order where do you want, down below there is the list of all the mandatory component to complete **one** T1ny_bl0om:
 - 1  pcb, if you want you can upload directly the file *T1ny_bl0om/T1ny_bl0om.zip* to [jlcpcb](https://jlcpcb.com/quote) or where do you want, I design the pcb with [EasyEDA](https://easyeda.com/) so if you want to modify it you can import the __*.json__ file inside EasyEDA
 - 1 Attiny85 [link](https://lcsc.com/product-detail/FLASH_ATMEL_ATTINY85-20SU_ATTINY85-20SU_C89852.html)
 - 3 WS2812B [link](https://www.aliexpress.com/item/32453497583.html?spm=a2g0s.9042311.0.0.27424c4d9DvwKP)
 - 3 YAGEO CC0603KRX7R9BB104 [link](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-50V_C14663.html)
 - 1 Diodes MMSZ5233B-7-F [link](https://lcsc.com/product-detail/Zener-Diodes_DIODES_MMSZ5233B-7-F_MMSZ5233B-7-F_C151381.html)
-- 2 pieces of wire to 'hug' the battery
-- Some copper stripes to enlarge the contact area
+- 2 pieces of wire to 'hug' the battery, one 20mm an the other 15mm
+- Some copper stripes to enlarge the contact area, I used the one that came with the soldering station and works well
 
+BTW I had uploaded the component list (*T1ny_bl0om\tiny_bloom_.csv*) in case you have problems.
+
+#### Steps
+<img align="right" width="250" height="250" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-12-55.jpg">So first I soldered first the top part (the one with led and capacitors) according to the scheme, and after that I soldered the bottom part (the one with attiny and zener diode).
+
+The whole process is a bit bothersome due to the size of the SMD component but the final result :smile:
 
 
 In case you have any problems feel free to contact me on [Twitter](https://twitter.com/raffass).
