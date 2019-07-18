@@ -1,6 +1,9 @@
 # T1ny_bl0om (README IN PROGRESS)
 
 This project was born as a my own exercise of soldering but it's grown in a more complex tiny project.
+
+This project was inspired by this [video](https://www.youtube.com/watch?v=kN0PZbytzZM) from Adafruit and you can use this for your props, cosplay, or photoshooting give you the possibility to choose one (ore more) specific color and his own intensity and duration (in case you want a fade effect between different color).
+
 ## Getting Started
 
 
