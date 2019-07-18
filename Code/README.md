@@ -33,13 +33,14 @@ After that, it's time to flash the bootloader pressing the button *Burn the boot
 <br />
 <br />
 <br />
+<br />
 
 
 <p align="center">
 <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_12-05-26.jpg" width="250"> <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_12-05-36.jpg" width="250">
 </p>
 
-**Moreover is important do plug the clamp correctly!!!** if you brought the clam from the link in the elettronics README, is important to plug the female plug with the red wire up (like in the photo above) and clamp the attiny85
+**Moreover is important do plug the clamp correctly!!!** if you brought the clam from the link in the elettronics README, is important to plug the female plug with the red wire up (like in the photo above) and clamp the attiny85 as the photo on the right ( the 2 attinys are place in the same way).
 
 
 
