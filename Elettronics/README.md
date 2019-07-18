@@ -20,36 +20,18 @@ If you have a flasher you can skip the ISP part and go straight to the T1ny_bl0o
 
 ### ISP
 #### Build of Materials
+In this part you need:
+- An arduino nano [link](https://www.aliexpress.com/item/32341832857.html?spm=a2g0s.9042311.0.0.27424c4diAN1ap)
+- A 10 μF capacitor, here you have a set of those [link](https://www.aliexpress.com/item/32866006892.html?spm=a2g0o.productlist.0.0.59a8181buVlWT5&algo_pvid=d772c5c8-fa64-40fe-81dd-571abab0b6f3&algo_expid=d772c5c8-fa64-40fe-81dd-571abab0b6f3-1&btsid=62429975-cd1c-4d59-b215-f225cd1a05c2&ws_ab_test=searchweb0_0%2Csearchweb201602_8%2Csearchweb201603_52)
+- A 5mm led or similar [link](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_f5Short-legs-Round-with-edge-Super-bright-red-hair-red-Bagged-RHOS_C52721.html)
+- A pcb, if you want you can upload directly the file *ISP/Flasher.zip* to [jlcpcb](https://jlcpcb.com/quote) or where do you want, I design the pcb with [EasyEDA](https://easyeda.com/) so if you wanto to modify it you can import the __*.json__ file inside EasyEDA
+- A program clam [link](https://www.aliexpress.com/item/1902568501.html?spm=a2g0s.9042311.0.0.27424c4dFCbfAZ)
+- Some pin [link](https://www.aliexpress.com/item/32933682566.html?spm=a2g0o.productlist.0.0.5861aafb0Lzcu7&algo_pvid=395d35a2-14b8-4aa8-b148-d58824a5238f&algo_expid=395d35a2-14b8-4aa8-b148-d58824a5238f-9&btsid=77c1d013-cb10-408f-9189-24a4d940a41c&ws_ab_test=searchweb0_0%2Csearchweb201602_8%2Csearchweb201603_52)
+
+#### Steps
 
 
 
-
-First of all, if you have completed the soldering part, is important to:
-- Had installed the Arduino IDE
-- Install the adafruit library for the ws2812 in your Arduino IDE called *Adafruit_NeoPixel*
-- Add the support for the Attiny85 in Arduino IDE, if you had problem follow the first 2 steps of this [guide](https://www.instructables.com/id/How-to-Program-an-Attiny85-From-an-Arduino-Uno/)
-
-After the set-up of the Arduini IDE it's time to flash the Attiny85; to do so, is important to set the arduino to flash firstly the bootloader to the Attiny85 and after that we test it.
-
-#### Burn teh Bootloader
-
-So it's important to set the arduino like the photo:
-<img align="left" width="511" height="378" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/screen.PNG">
-- Board: ATtiny25/45/45
-- Processor: ATtiny85
-- Clock: Internal 8 MHz
-- Port: COMXX (matching your port)
-- Programmer: Arduino as ISP
-
-After that, it's time to flash the bootloader pressing the button *Burn the bootloader*.
-
-
-
-#### Test Code
-
-If everything it's fine you can try to upload the code 'attiny_blink/attiny_blink.ino' that make the led in the flash board to blink periodically; after that you can upload the code 'Neopixel_Rainbow/Neopixel_Rainbow.ino'.
-
-The code is fairly similar to the code example given by Adafruit with his own library.
 
 In case you have any problems feel free to contact me on [Twitter](https://twitter.com/raffass).
 
