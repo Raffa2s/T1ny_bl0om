@@ -3,8 +3,7 @@
 ## Getting Started
 
 ### Requisites
-<img align="right" width="200" height="200" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-12-55.jpg">Before start, this is the part for me more hard to achieve because I never soldered SMD component before this project; so, if you are like me, take your time.
-
+<img align="right" width="200" height="200" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-17_12-12-55.jpg">
 It's important to have the right hardware for the job, so this is mine:
 - Soldering iron, mine is a Weller WHS 40
 - Soldering station, mine is [this one](https://www.aliexpress.com/item/32817153181.html?spm=a2g0s.9042311.0.0.27424c4d8S5X5Y) Set E, that had a soldering iron and solder past
@@ -39,6 +38,18 @@ It's basically soldiring at this point:
 Complete :tada::tada::tada:
 
 Now it's time for the tiny.
+
+### T1ny_bl0om
+
+#### Build of Materials
+<img align="right" width="200" height="200" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_10-40-03.jpg">I order some part from LCSC and other form Aliexpress feel free to place the order where do you want, down below there is the list of all the mandatory component to complete **one** T1ny_bl0om:
+- 1  pcb, if you want you can upload directly the file *T1ny_bl0om/T1ny_bl0om.zip* to [jlcpcb](https://jlcpcb.com/quote) or where do you want, I design the pcb with [EasyEDA](https://easyeda.com/) so if you wanto to modify it you can import the __*.json__ file inside EasyEDA
+- 1 Attiny85 [link](https://lcsc.com/product-detail/FLASH_ATMEL_ATTINY85-20SU_ATTINY85-20SU_C89852.html)
+- 3 WS2812B [link](https://www.aliexpress.com/item/32453497583.html?spm=a2g0s.9042311.0.0.27424c4d9DvwKP)
+- 3 YAGEO CC0603KRX7R9BB104 [link](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-50V_C14663.html)
+- 1 Diodes MMSZ5233B-7-F [link](https://lcsc.com/product-detail/Zener-Diodes_DIODES_MMSZ5233B-7-F_MMSZ5233B-7-F_C151381.html)
+-
+
 
 
 In case you have any problems feel free to contact me on [Twitter](https://twitter.com/raffass).
