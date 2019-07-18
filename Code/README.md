@@ -17,11 +17,9 @@ First of all, if you have completed the soldering part, is important to:
 
 After the set-up of the Arduini IDE it's time to flash the Attiny85; to do so, is important to set the arduino to flash firstly the bootloader to the Attiny85 and after that we test it.
 
-#### Burn teh Bootloader
+#### Burn the Bootloader
 
-So it's important to set the arduino like the photo:
-
-<img align="left" width="511" height="378" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/screen.PNG">
+<img align="left" width="511" height="378" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/screen.PNG">So it's important to set the arduino like the photo:
 - Board: ATtiny25/45/45
 - Processor: ATtiny85
 - Clock: Internal 8 MHz
@@ -29,6 +27,8 @@ So it's important to set the arduino like the photo:
 - Programmer: Arduino as ISP
 
 After that, it's time to flash the bootloader pressing the button *Burn the bootloader*.
+
+**Moreover is important do plug the clam in the correct way!!!** if you brought the clam from the link in the elettronics README, is important to plug the female plug with the red wire up (like in the photo above) and clamp the attiny85
 
 
 
