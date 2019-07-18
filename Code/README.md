@@ -28,10 +28,12 @@ After the set-up of the Arduini IDE it's time to flash the Attiny85; to do so, i
 
 After that, it's time to flash the bootloader pressing the button *Burn the bootloader*.
 
-<pre>
+<br />
+<br />
+<br />
+<br />
+<br />
 
-
-</pre>
 
 <p align="center">
 <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_12-05-26.jpg" width="250"> <img src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_12-05-36.jpg" width="250">
