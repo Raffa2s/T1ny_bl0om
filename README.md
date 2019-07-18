@@ -15,7 +15,6 @@ To achive this project you need basicaly 3 things:
 * A Pc with arduino IDE on it and a ISP for flashing
 On top of those  you need a lot of patiente but at the end of the story you will have a tiny little device that you can program fro your pc and is big as a 2€ coins.
 
-What things you need to install the software and how to install them.
 
 ### Photos
 
