@@ -25,7 +25,7 @@ What things you need to install the software and how to install them.
 </p>
 
 ### General info
-In each folder you can find, moreover the mandatory file, a README in which are included the BOM list of the phisical object that you need and a little guide through the main step to complete the step.
+In each folder you can find, moreover the mandatory file, a README in which are included the BOM list of the phisical objects that you need and a little guide through the main steps to complete the each part.
 
 ## Author
 
