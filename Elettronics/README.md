@@ -19,9 +19,9 @@ The following instractions is divide in two part:
 If you have a flasher you can skip the ISP part and go straight to the T1ny_bl0om part.
 
 ### ISP
-_____________________________________________________________________________
+
 #### Build of Materials
-In this part you need:
+<img align="right" width="200" height="200" src="https://github.com/Raffa2s/T1ny_bl0om/blob/T1ny_bl0om/master/Images/photo_2019-07-18_10-05-11">In this part you need:
 - An arduino nano [link](https://www.aliexpress.com/item/32341832857.html?spm=a2g0s.9042311.0.0.27424c4diAN1ap)
 - A 10 μF capacitor, here you have a set of those [link](https://www.aliexpress.com/item/32866006892.html?spm=a2g0o.productlist.0.0.59a8181buVlWT5&algo_pvid=d772c5c8-fa64-40fe-81dd-571abab0b6f3&algo_expid=d772c5c8-fa64-40fe-81dd-571abab0b6f3-1&btsid=62429975-cd1c-4d59-b215-f225cd1a05c2&ws_ab_test=searchweb0_0%2Csearchweb201602_8%2Csearchweb201603_52)
 - A 5mm led or similar [link](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_f5Short-legs-Round-with-edge-Super-bright-red-hair-red-Bagged-RHOS_C52721.html)
@@ -30,8 +30,15 @@ In this part you need:
 - Some pin [link](https://www.aliexpress.com/item/32933682566.html?spm=a2g0o.productlist.0.0.5861aafb0Lzcu7&algo_pvid=395d35a2-14b8-4aa8-b148-d58824a5238f&algo_expid=395d35a2-14b8-4aa8-b148-d58824a5238f-9&btsid=77c1d013-cb10-408f-9189-24a4d940a41c&ws_ab_test=searchweb0_0%2Csearchweb201602_8%2Csearchweb201603_52)
 
 #### Steps
+It's basically soldiring at this point:
+1. Solder the pin,led and capacitor to the board
+2. Solder the pin to arduino nano
+3. **Upload to the arduino the ISP sketch**
+4. Solder arduino to the pcb
 
+Complete :tada::tada::tada:
 
+Now it's time for the tiny.
 
 
 In case you have any problems feel free to contact me on [Twitter](https://twitter.com/raffass).
