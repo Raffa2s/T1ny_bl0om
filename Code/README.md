@@ -28,7 +28,7 @@ After the set-up of the Arduini IDE it's time to flash the Attiny85; to do so, i
 
 After that, it's time to flash the bootloader pressing the button *Burn the bootloader*.
 
-**Moreover is important do plug the clam in the correct way!!!** if you brought the clam from the link in the elettronics README, is important to plug the female plug with the red wire up (like in the photo above) and clamp the attiny85
+**Moreover is important do plug the clamp correctly!!!** if you brought the clam from the link in the elettronics README, is important to plug the female plug with the red wire up (like in the photo above) and clamp the attiny85
 
 
 
