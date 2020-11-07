@@ -9,5 +9,5 @@ void loop()
   delay(100);   // Wait for a half a second
 
   digitalWrite(4, LOW);   // Set the LED pins to LOW. This turns it off
-  delay(100);    // Wait for a half second
+  delay(100);    //  Wait for a half second
 }
